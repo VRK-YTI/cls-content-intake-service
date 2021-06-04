@@ -591,7 +591,7 @@
         <postgresql.version>42.2.8</postgresql.version>
         <elastic.version>6.5.4</elastic.version>
         <apache.poi.version>4.1.0</apache.poi.version>
-        <apache.httpclient.version>4.5.10</apache.httpclient.version>
+        <apache.httpclient.version>4.5.13</apache.httpclient.version>
         <psql.host>localhost</psql.host>
         <psql.port>5432</psql.port>
         <project.db.name>yti_codelist</project.db.name>
