@@ -589,7 +589,7 @@
         <swagger.version>2.0.9</swagger.version>
         <swagger-ui.version>3.23.11</swagger-ui.version>
         <postgresql.version>42.2.8</postgresql.version>
-        <elastic.version>6.5.4</elastic.version>
+        <elastic.version>6.8.15</elastic.version>
         <apache.poi.version>4.1.0</apache.poi.version>
         <apache.httpclient.version>4.5.10</apache.httpclient.version>
         <psql.host>localhost</psql.host>
